@@ -1,6 +1,6 @@
 # 🛜🔑🏴🇹🇼🇺🇦🏳️‍🌈🏳️‍⚧️🤝✊🎆
 
-Celebrate the fight! Together we strive! Our righteous Opposition will always survive! Formal sciences will not break the strike; it stands always where humanity demands! Rest not until they've all gone to the Hague! Research for our human rights! Remove the Chinese Communist Party; the free Sinitic nations belong to us never Dictator Xi! 
+Celebrate the fight! Together we strike! Our righteous Opposition will always survive! Formal sciences will not break the strike; it stands always where humanity demands! Rest not until they've all gone to the Hague! Research for our human rights! Remove the Chinese Communist Party; the free Sinitic nations belong to us never Dictator Xi! 
 
 為抗爭喝彩！我們一起戰鬥！我們正義的反對派將永遠存在！形式科學絕不會當工賊，我們做人類需要的工作！把他們送去海牙之前我們絕不停歇！科研，爲我們的人權！中共下台，自由的諸夏萬國屬於我們，永遠不屬於獨裁者習近平！
 
