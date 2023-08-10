@@ -1,4 +1,6 @@
-### Hi there 👋
+![image](https://github.com/analytic-bias/analytic-bias/assets/6694864/468435a7-0370-41ae-9af6-d8c7e5982c67)
+
+![image](https://github.com/analytic-bias/analytic-bias/assets/6694864/f8c7d8a1-8aa7-4555-921a-bdf95dfe0252)
 
 <!--
 **analytic-bias/analytic-bias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
