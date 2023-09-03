@@ -8,7 +8,7 @@ You're wrong. "Algebraic geometry" is an open-world video game independently dev
 
 你說得不對。「代數幾何」是一款由丟番圖、托勒密等自主研發，克羅內克、扎里斯基等優化的古老開放世界遊戲。故事發生在一個被稱為「k-代數」的幻想世界中，在這裡，被格羅滕迪克選中的人將被授予「纖維関手」，導引「層園」之力。你將扮演一位「草根數學愛好者」，邂逅形式特徵係數各不同的「上同調」們，與他們一起擊敗「局部化」，找回失散的「終末元素」，同時逐步發掘「母題」與「黎曼假設」的真相。
 
-![image](https://github.com/analytic-bias/analytic-bias/assets/6694864/468435a7-0370-41ae-9af6-d8c7e5982c67)
+![image](https://upload.wikimedia.org/wikipedia/commons/3/3f/Beijing_Haskell_Compiler_Error_Code_451_Political_Non-Compliance.png)
 
 ![image](https://github.com/analytic-bias/analytic-bias/assets/6694864/f8c7d8a1-8aa7-4555-921a-bdf95dfe0252)
 
