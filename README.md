@@ -1,7 +1,8 @@
 # Brief CV (not really anything):
 
 ## basic information
-- contact: [email](mailto:knight.of.lambda.calculus@gmail.com) / [telegram](https://t.me/sayako_8964) 
+- contact: [email](mailto:knight.of.lambda.calculus@gmail.com) / [telegram](https://t.me/sayako_8964)
+- languages: Beiyu/Mandarin (Chinese), English
 - moniker: hypatia (Attic pronunciation, /y.paˈti.a/) du Bois-Marie (as in the [SGA](https://en.wikipedia.org/wiki/S%C3%A9minaire_de_G%C3%A9om%C3%A9trie_Alg%C3%A9brique_du_Bois_Marie))
 - mathematician (math.AG) / formal scientist (math.LO. etc.)
 - human rights advocate (SOGIESC diversity, anti-censorship, cyber-ethics)
