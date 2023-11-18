@@ -1,4 +1,35 @@
-# 🛜🔑🏴🇹🇼🇺🇦🏳️‍🌈🏳️‍⚧️🤝✊🎆
+# Brief CV (not really anything):
+
+## basic information
+- contact: [email](mailto:knight.of.lambda.calculus@gmail.com) / [telegram](https://t.me/sayako_8964) 
+- moniker: hypatia (Attic pronunciation, /y.paˈti.a/) du Bois-Marie (as in the [SGA](https://en.wikipedia.org/wiki/S%C3%A9minaire_de_G%C3%A9om%C3%A9trie_Alg%C3%A9brique_du_Bois_Marie))
+- mathematician (math.AG) / formal scientist (math.LO. etc.)
+- human rights advocate (SOGIESC diversity, anti-censorship, cyber-ethics)
+- political dissident from China (P.R.)
+- in exile in New York, USA
+
+## education: informal apprenticeships in China in
+- theoretical computer science: programming language theory (PLT), formal semantics, software analysis
+- algebraic geometry: theories and models of higher categories, homotopical and cohomological methods in algebraic geometry
+
+## backgrounds:
+$$
+\Big\\{\text{algebra, categories, motives, derivations}\Big\\}\bigcap\Big\\{\text{moduli}, \text{arithmetics}, \dots, \text{physics},\text{logic}\Big\\}
+$$
+
+### things I intend to read about soon:
+- geometrization of local Langlands correspondences
+- Feynman integrals as motivic Poincaré pairing
+- motives associated to w.f.f.
+
+### outreach stuffs:
+- formal-computational methods and utilities in linguistics, cybersecurity, OSINT, neurosciences, etc.
+
+# Other Stuffs:
+
+🛜🔑🏴🇹🇼🇺🇦🏳️‍🌈🏳️‍⚧️🤝✊🎆
+
+[Idols of the Analytic Traditions](https://analytic-bias.github.io/idols/)
 
 Celebrate the fight! Together we strike! Our righteous Opposition will always survive! Formal sciences will not break the strike; it stands always where humanity demands! Rest not until they've all gone to the Hague! Research for our human rights! Remove the Chinese Communist Party; the free Sinitic nations belong to us never Dictator Xi! 
 
@@ -12,18 +43,4 @@ You're wrong. "Algebraic geometry" is an open-world video game independently dev
 
 ![image](https://github.com/analytic-bias/analytic-bias/assets/6694864/f8c7d8a1-8aa7-4555-921a-bdf95dfe0252)
 
-
-<!--
-**analytic-bias/analytic-bias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://github.com/analytic-bias/analytic-bias/assets/6694864/3f61ec3f-0211-4c26-9e7d-42d0675ada25)
