@@ -19,9 +19,15 @@ $$
 $$
 
 ### things I intend to read about soon:
-- geometrization of local Langlands correspondences
+- geometrization of Langlands correspondences
 - Feynman integrals as motivic Poincaré pairing
 - motives associated to w.f.f.
+- System $\mathbb{NL}_{\mathrm{fix}}$
+
+### non-mathematical things I intend to work on:
+- USSR macro-economics
+- [transformers](https://github.com/neelnanda-io/TransformerLens)
+- [anti-Soviet activities](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/supercomp-by-eval.pdf)
 
 ### outreach stuffs:
 - formal-computational methods and utilities in linguistics, cybersecurity, OSINT, neurosciences, etc.
