@@ -15,7 +15,7 @@
 
 ## backgrounds:
 $$
-\Big\\{\text{algebra, categories, motives, derivations}\Big\\}\bigcap\Big\\{\text{moduli}, \text{arithmetics}, \dots, \text{physics},\text{logic}\Big\\}
+\Big\\{\text{algebra, categories, motives, derivations}\Big\\}\times\Big\\{\text{moduli}, \text{arithmetics}, \dots, \text{physics},\text{logic}\Big\\}
 $$
 
 ### things I intend to read about soon:
