@@ -34,7 +34,7 @@ $$
 
 # 🛜🔑🏴🇹🇼🇺🇦🏳️‍🌈🏳️‍⚧️🤝✊🎆 Other Stuffs:
 
-# Cool AI arts: [Idols of the Analytic Traditions](https://analytic-bias.github.io/idols/)
+## Cool AI arts: [Idols of the Analytic Traditions](https://analytic-bias.github.io/idols/)
 
 Celebrate the fight! Together we strike! Our righteous Opposition will always survive! Formal sciences will not break the strike; it stands always where humanity demands! Rest not until they've all gone to the Hague! Research for our human rights! Remove the Chinese Communist Party; the free Sinitic nations belong to us never Dictator Xi! 
 
