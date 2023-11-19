@@ -18,18 +18,20 @@ $$
 \Big\\{\text{algebra, categories, motives, derivations}\Big\\}\times\Big\\{\text{moduli}, \text{arithmetics}, \dots, \text{physics},\text{logic}\Big\\}
 $$
 
-### things I intend to read about soon:
+## things I intend to read about soon:
 - geometrization of Langlands correspondences
 - Feynman integrals as motivic Poincaré pairing
+
+### writing ideas:
 - motives associated to w.f.f.
 - System $\mathbb{NL}_{\mathrm{fix}}$
 
-### non-mathematical things I intend to work on:
+## non-mathematical things I intend to work on:
 - USSR macro-economics
 - [transformers](https://github.com/neelnanda-io/TransformerLens)
 - [anti-Soviet activities](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/supercomp-by-eval.pdf)
 
-### outreach stuffs:
+## outreach stuffs:
 - formal-computational methods and utilities in linguistics, cybersecurity, OSINT, neurosciences, etc.
 
 # 🛜🔑🏴🇹🇼🇺🇦🏳️‍🌈🏳️‍⚧️🤝✊🎆 Other Stuffs:
