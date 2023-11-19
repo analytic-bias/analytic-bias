@@ -33,6 +33,7 @@ $$
 
 ## outreach stuffs:
 - formal-computational methods and utilities in linguistics, cybersecurity, OSINT, neurosciences, etc.
+- formal sciences and education (as human rights work)
 
 # 🛜🔑🏴🇹🇼🇺🇦🏳️‍🌈🏳️‍⚧️🤝✊🎆 Other Stuffs:
 
