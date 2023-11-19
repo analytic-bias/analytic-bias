@@ -3,7 +3,7 @@
 ## basic information
 - contact: [email](mailto:knight.of.lambda.calculus@gmail.com) / [telegram](https://t.me/sayako_8964)
 - languages: Beiyu/Mandarin (Chinese), English
-- moniker: hypatia (Attic pronunciation, /y.paˈti.a/) du Bois-Marie (as in the [SGA](https://en.wikipedia.org/wiki/S%C3%A9minaire_de_G%C3%A9om%C3%A9trie_Alg%C3%A9brique_du_Bois_Marie))
+- moniker: Hypatia (Attic pronunciation, /y.paˈti.a/) du Bois-Marie (as in the [SGA](https://en.wikipedia.org/wiki/S%C3%A9minaire_de_G%C3%A9om%C3%A9trie_Alg%C3%A9brique_du_Bois_Marie))
 - mathematician (math.AG) / formal scientist (math.LO. etc.)
 - human rights advocate (SOGIESC diversity, anti-censorship, cyber-ethics)
 - political dissident from China (P.R.)
@@ -38,7 +38,7 @@ $$
 
 Celebrate the fight! Together we strike! Our righteous Opposition will always survive! Formal sciences will not break the strike; it stands always where humanity demands! Rest not until they've all gone to the Hague! Research for our human rights! Remove the Chinese Communist Party; the free Sinitic nations belong to us never Dictator Xi! 
 
-為抗爭喝彩！我們一起戰鬥！我們正義的反對派將永遠存在！形式科學絕不會當工賊，我們做人類需要的工作！把他們送去海牙之前我們絕不停歇！科研，爲我們的人權！中共下台，自由的諸夏萬國屬於我們，永遠不屬於獨裁者習近平！
+為抗爭喝彩！我們一起戰鬥！我們正義的反對派將永遠存在！形式科學絕不會當工賊，我們做人類需要的工作！把他們送去海牙之前我們絕不停歇！科研，為了我們的人權！中共下台，自由的諸夏萬國屬於我們，永遠不屬於獨裁者習近平！
 
 You're wrong. "Algebraic geometry" is an open-world video game independently developed by Diophantus, Ptolemy, et al, and later optimized by Kronecker, Zariski, et al. The story takes place in a fictional world named "the k-algebra", in which those chosen by Grothendieck will be bestowed "fiber functors", inducing the theurgy of "higher stacks". You will play as a "grassroots mathematical enthusiast", encountering "cohomology theories" with different characteristics and coefficients, annihilating the "localization" with them, recovering the long-lost "terminal element", and discovering the truth behind the "MOTIF" and the "Riemann hypothesis".
 
