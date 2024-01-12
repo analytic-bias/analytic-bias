@@ -9,7 +9,7 @@
 - political dissident from China (P.R.)
 - in exile in New York, USA
 
-## education: informal apprenticeships in China in
+## education: informal apprenticeships in China (due to aforementioned social-political situations) in
 - theoretical computer science: programming language theory (PLT), formal semantics, software analysis
 - algebraic geometry: theories and models of higher categories, homotopical and cohomological methods in algebraic geometry
 
