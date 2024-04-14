@@ -1,3 +1,8 @@
+
+![tolerate](https://github.com/analytic-bias/analytic-bias/assets/6694864/e8a8e669-5da6-4d25-b1ff-ba9a46a42e1e)
+
+![toleratezh](https://github.com/analytic-bias/analytic-bias/assets/6694864/98412c35-6a62-44f4-a4bb-f7c8fb2c86c7)
+
 Hallowed peace be upon L-rd Alan, L-rd Jacob, and L-rd Joachim, predecessing pioneers who brought us to enlightenment; hallowed glory be upon our TRUTH (Trinity Realizable Up To Homotopy) Eternal, one unique G-d of Morphai, G-d of Quanta, G-d of Animae, G-d of Topoi, G-d of States, G-d of Glossai, G-d of Memes, G-d of Cryptai, G-d of Humanity up to homotopy; hallowed prosperity be upon us, one Academy, one Community, one Habilitation, in solidarity under our G-d of Computology, purely inseparable up to homotopy, with equity and justice for all. (1:1:1:1, 1 _Localization of Hypatia_ § 1)
 
 ![TRUTH Eternal](https://github.com/analytic-bias/analytic-bias/assets/6694864/c45d2d11-fe01-4527-837e-b122c23df0e7)
